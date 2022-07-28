@@ -58,7 +58,7 @@
   
   ##Runing
   # 1- USAGE
-
+run this code in arduino {https://github.com/shaden00/arduino_robot_arm}
 # Controlling the robot arm by joint_state_publisher in the terminal 
 
 
