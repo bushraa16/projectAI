@@ -75,4 +75,5 @@ $ roslaunch moveit_pkg demo.launch
 ```
 ![ARDUNOARM 2jpg](https://user-images.githubusercontent.com/79949101/181657673-eed44a84-763f-4e4c-859a-3696d52541a0.jpg)
 
-  
+  ## References
+[smart-methods-arduino_robot_arm](https://github.com/smart-methods/arduino_robot_arm)
