@@ -63,14 +63,16 @@ run this code in arduino [arduino_code](https://github.com/smart-methods/arduino
 
 
 ```
-$ roslaunch robot_arm_pkg 
-
-check_motors.launch
+$ roslaunch robot_arm_pkg check_motors.launch
 ```
+![ardunoarm](https://user-images.githubusercontent.com/79949101/181657623-d14b96fc-f7ad-47b1-bbb6-803667e4693e.jpg)
+
 
 # 2- Controlling the robot arm by Moveit and kinematics
 
 ```
 $ roslaunch moveit_pkg demo.launch
 ```
+![ARDUNOARM 2jpg](https://user-images.githubusercontent.com/79949101/181657673-eed44a84-763f-4e4c-859a-3696d52541a0.jpg)
+
   
