@@ -68,12 +68,21 @@ $ roslaunch robot_arm_pkg check_motors.launch
 ![ardunoarm](https://user-images.githubusercontent.com/79949101/181657623-d14b96fc-f7ad-47b1-bbb6-803667e4693e.jpg)
 
 
+
+https://user-images.githubusercontent.com/79949101/181659554-c5785f0f-0da3-4697-b624-aa2f6f645d41.mp4
+
+
 # 2- Controlling the robot arm by Moveit and kinematics
 
 ```
 $ roslaunch moveit_pkg demo.launch
 ```
 ![ARDUNOARM 2jpg](https://user-images.githubusercontent.com/79949101/181657673-eed44a84-763f-4e4c-859a-3696d52541a0.jpg)
+ 
+
+https://user-images.githubusercontent.com/79949101/181660077-db9d212e-1d55-4e5e-a9ef-61f7153e5b0f.mp4
+
+
 
   ## References
 [smart-methods-arduino_robot_arm](https://github.com/smart-methods/arduino_robot_arm)
